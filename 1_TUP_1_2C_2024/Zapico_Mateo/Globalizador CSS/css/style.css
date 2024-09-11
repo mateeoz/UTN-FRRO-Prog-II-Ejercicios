@@ -64,7 +64,7 @@ nav input::placeholder{
 }
 
 .imagen img{
-    width: 300px;
+    width: 301px;
     height: auto;
     filter: drop-shadow(2px 2px 20px rgb(255, 255, 255));
     mask-image: linear-gradient(#f8f8f8 80%, transparent);
